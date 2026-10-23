@@ -1,0 +1,6 @@
+# Compiled Windows binary and build outputs
+SpotifyMiniOverlay.exe
+*.pdb
+*.ilk
+obj/
+bin/
